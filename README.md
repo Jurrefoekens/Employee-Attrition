@@ -1,18 +1,3 @@
----
-title: "Employee Attrition - Individual Project"
-author:
-- "Jurre Foekens"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output:
-  html_document:
-    toc: yes
-    toc_depth: '2'
-    df_print: paged
-  html_notebook:
-    toc: yes
-    toc_depth: 2
----
-
 ## Packages
 
 ```{r}
